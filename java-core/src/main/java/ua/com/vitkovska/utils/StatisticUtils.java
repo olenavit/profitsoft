@@ -1,7 +1,8 @@
-package ua.com.vitkovska;
+package ua.com.vitkovska.utils;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+import ua.com.vitkovska.entity.Player;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

@@ -2,6 +2,8 @@ package ua.com.vitkovska;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import ua.com.vitkovska.entity.Player;
+import ua.com.vitkovska.utils.StatisticUtils;
 
 import java.io.File;
 import java.io.IOException;

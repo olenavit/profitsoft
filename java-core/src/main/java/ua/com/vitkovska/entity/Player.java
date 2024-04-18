@@ -1,4 +1,4 @@
-package ua.com.vitkovska;
+package ua.com.vitkovska.entity;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonCreator;

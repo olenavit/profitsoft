@@ -1,11 +1,15 @@
 package ua.com.vitkovska;
 
+import ua.com.vitkovska.entity.Player;
+import ua.com.vitkovska.parser.JSONParser;
+import ua.com.vitkovska.utils.StatisticUtils;
+
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
         try {
-            if (args == null || args.length < 2) {
+            if (args == null || args.length != 2) {
                 throw new IllegalArgumentException("Invalid arguments were given");
             }
             String folderPath = args[0];

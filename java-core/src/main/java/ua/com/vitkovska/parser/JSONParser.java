@@ -1,6 +1,7 @@
-package ua.com.vitkovska;
+package ua.com.vitkovska.parser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import ua.com.vitkovska.entity.Player;
 
 import java.io.BufferedReader;
 import java.io.File;
