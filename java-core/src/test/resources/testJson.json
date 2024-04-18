@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "team": "Team A",
+    "year_of_birth": "2003",
+    "position": "Center, Power Forward"
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "team": "Team B",
+    "year_of_birth": "2000",
+    "position": "Shooting guard, Point Guard"
+  },
+  {
+    "name": "Mike",
+    "surname": "Johnson",
+    "team": "Team A",
+    "year_of_birth": "2001",
+    "position": "Small forward, Point Guard"
+  }
+]

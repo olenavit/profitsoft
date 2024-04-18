@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<statistics>
+  <item>
+    <value>Point Guard</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Center</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Shooting guard</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Small forward</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Power Forward</value>
+    <count>1</count>
+  </item>
+</statistics>
